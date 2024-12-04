@@ -1,0 +1,19 @@
+.Header{
+    display: flex;
+    background-color: black;
+    
+}
+.Header > * {
+    padding: 20px;
+
+}
+.push{
+    margin-left: auto;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+.logo{
+    color: aqua;
+}
